@@ -1,6 +1,6 @@
-# JavaFX Three Cards Poker Game
+# Three Cards Poker Game
 
-This is a JavaFX application that implements the Three Cards Poker game. The game utilizes multi-threaded programming and network programming to support multiplayer functionality.
+This is a Three Cards Poker game implemented using JavaFX. The game utilizes multi-threaded programming and network programming to support multiplayer functionality.
 
 <div align="center">
   <img src="https://i.ibb.co/HhDpCF1/3cardspokerdemo.png" alt="3CardsPoker" width="50%">
